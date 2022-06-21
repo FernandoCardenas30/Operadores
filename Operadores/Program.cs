@@ -18,7 +18,7 @@ namespace Operadores
             Console.WriteLine(" ");
 
             //Sumar valores de una variable
-            int sum1 = 20 + 15;
+            int sum1 = 20 + 30;
             int sum2 = 3;
             int sum3 = 5;
 
