@@ -22,7 +22,7 @@ namespace Operadores
             int sum2 = 5;
             int sum3 = 5;
 
-            Console.WriteLine("La suma de cantidades es: " + (sum1 + sum2 + sum3));
+            Console.WriteLine("La sumatoria de cantidades es: " + (sum1 + sum2 + sum3));
         }
     }
 }
