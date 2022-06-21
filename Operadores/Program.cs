@@ -18,8 +18,8 @@ namespace Operadores
             Console.WriteLine(" ");
 
             //Sumar valores de una variable
-            int sum1 = 20 + 30;
-            int sum2 = 3;
+            int sum1 = 25 + 25;
+            int sum2 = 5;
             int sum3 = 5;
 
             Console.WriteLine("La suma de cantidades es: " + (sum1 + sum2 + sum3));
